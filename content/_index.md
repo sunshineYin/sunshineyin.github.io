@@ -70,4 +70,3 @@ My CV can be downloaded [here](https://www.sunshineyin.site/assets/cv/CV_YGM_PKU
 #### Session Chair
 - 2021: **Session Chair** for *The 2021 International Graduate Workshop on GeoInformatics (IGWG 2021)*.
 
-
